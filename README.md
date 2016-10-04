@@ -5,7 +5,7 @@ by Andras Hartmann <andras.hartmann@gmail.com>.
 
 Tested on MATLAB 2015b
 
-This software is a remixed version of SBEToolbox (Systems Biology and Evolution Toolbox) by Texas A&M University, available [here](https://github.com/biocode/SBEToolbox).
+This software is a remixed version of SBEToolbox (Systems Biology and Evolution Toolbox) by Texas A&M University, available [here](https://github.com/biocoder/SBEToolbox).
 
 Original reference:
 
